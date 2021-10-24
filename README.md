@@ -1,6 +1,6 @@
 # SSDRec
 ## Input data
-Due to the big size of datasets, we can't upload them into this reposite and you can get them in release.
+Due to the big size of datasets, we can't upload them and you can get them in release.
 
 You can get the raw data in data folder, in which concat, dependence and interation store social relation, dependecy relation and interations between developers and software packages separately.
 
