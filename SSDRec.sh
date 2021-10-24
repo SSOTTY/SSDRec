@@ -1,0 +1,10 @@
+python train.py --batch=200 --hidden=100 --dependence=1
+python test.py --batch=200 --hidden=100 --dependence=1
+python train.py --batch=200 --hidden=100 --dependence=1
+python test.py --batch=200 --hidden=100 --dependence=1
+python train.py --batch=200 --hidden=100 --dependence=1
+python test.py --batch=200 --hidden=100 --dependence=1
+python train.py --batch=200 --hidden=100 --dependence=1
+python test.py --batch=200 --hidden=100 --dependence=1
+python train.py --batch=200 --hidden=100 --dependence=1
+python test.py --batch=200 --hidden=100 --dependence=1
