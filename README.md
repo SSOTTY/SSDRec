@@ -1,6 +1,6 @@
 # SSDRec
 ## Input data
-Due to the big size of datasets, we put it into the release.
+Due to the big size of datasets, we put them into the release.
 
 You can get the raw data in data folder, in which concat, dependence and interation store social relation, dependecy relation and interations between developers and software packages separately.
 
