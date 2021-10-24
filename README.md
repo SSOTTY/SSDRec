@@ -1,5 +1,7 @@
 # SSDRec
 ## Input data
+Due to the big size of datasets, we put it into the release.
+
 You can get the raw data in data folder, in which concat, dependence and interation store social relation, dependecy relation and interations between developers and software packages separately.
 
 Besides, you can get the processed data in the PHP, ruby and JS folders, which contain following files:
